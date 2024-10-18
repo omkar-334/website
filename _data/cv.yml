@@ -1,0 +1,32 @@
+- title: General Information
+  type: map
+  contents:
+    - name: Full Name
+      value: Omkar Kabde
+    - name: Date of Birth
+      value: 3rd March 2004
+    - name: Languages
+      value: English, Hindi, Telugu, Marathi
+
+- title: Experience
+  type: time_table
+  contents:
+    - title: NLP Research Intern
+      institution: IIT Indore
+      year: 2024
+    - title: Open-Source Developer
+      institution: Google Summer of Code 
+      year: 2024
+    - title: Backend Developer Intern
+      institution: GoIndiaAdvisors
+      year: 2024
+    - title: AI Research Intern
+      institution: Bhabha AI
+      year: 2024
+
+- title: Education
+  type: time_table
+  contents:
+    - title: Bachelor of Engineering
+      institution: Chaitanya Bharathi Institute of Technology, Hyderabad
+      year: 2026
