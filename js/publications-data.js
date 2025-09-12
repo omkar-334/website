@@ -9,6 +9,18 @@ const publicationsData = [
         code: "https://github.com/videohatespeech/Implicit_Video_Hate",
         image: "images/sides/acl2025.png",
         category: "conference",
-        number: "C.5"
+        number: "C.1"
+    },
+    {
+        key: "cc25",
+        title: "Two Stage Context Learning with Large Language Models for Multimodal Stance Detection on Climate Change",
+        author: "Lata Pangtey and Omkar Kabde and Shahid Shafi Dar and Dr. Nagendra Kumar",
+        year: "2025",
+        venue: "ArXiv Preprint",
+        url: "https://arxiv.org/abs/2509.08024",
+        code: "",
+        image: "images/sides/cc25.png",
+        category: "preprint",
+        number: "P.1"
     }
 ];
